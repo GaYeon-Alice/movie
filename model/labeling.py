@@ -1,4 +1,3 @@
-import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
 def encoder(data, sparse_features):
